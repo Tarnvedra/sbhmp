@@ -21,7 +21,9 @@ main {
 
 /* Carousel base class */
 .carousel {
-  margin-bottom: 0; /* 4rem; */
+  margin: 0;
+  padding: 0;
+  border: 0; /* 4rem; */
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -104,9 +106,9 @@ main {
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
-@media (min-width: 40em) {
+/* @media (min-width: 40em) {
   /* Bump up size of carousel content */
-  .carousel-caption p {
+ /* .carousel-caption p {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
     line-height: 1.4;

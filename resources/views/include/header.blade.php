@@ -33,7 +33,7 @@
                          <img class="first-slide img-fluid" src="{{ asset('images/homesb3.jpg') }}" alt="First slide">
                  <div class="container">
                     <div class="carousel-caption text-left">
-                        <h1>Suzy Bing Handmade Pictures</h1>
+                        <h1 class="desktop">Suzy Bing Handmade Pictures</h1>
                        </div>
                </div>
             </div>
@@ -41,7 +41,7 @@
                    <img class="second-slide img-fluid" src="{{ asset('images/homesb2.jpg') }}" alt="Second slide">
                   <div class="container">
               <div class="carousel-caption">
-                <h1>Suzy Bing Handmade Pictures</h1>
+                <h1 class="desktop">Suzy Bing Handmade Pictures</h1>
              </div>
             </div>
           </div>
@@ -49,7 +49,7 @@
         <img class="third-slide img-fluid" src="{{ asset('images/mothersb3.jpg') }}" alt="Third slide">
         <div class="container">
           <div class="carousel-caption text-right">
-            <h1>Suzy Bing Handmade Pictures</h1>
+            <h1 class="desktop">Suzy Bing Handmade Pictures</h1>
          </div>
         </div>
       </div>
