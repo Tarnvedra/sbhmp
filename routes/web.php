@@ -15,3 +15,4 @@ Route::get('/' , 'PagesController@home');
 Route::get('/about' , 'PagesController@about');
 Route::get('/gallery' , 'PagesController@gallery');
 Route::get('/contact' , 'PagesController@contact');
+Route::get('/quote' , 'PagesController@quote');
