@@ -5,6 +5,12 @@
 
 <div class="container pt-5">
     <h2 class="pt-5">Contact<span class="text-muted"></span></h2>
+
+    <div class="col-md-5 pb-5 pt-5">
+        <h6 class="pb-3">Hand crafted pictures made with care and love</h6>
+        <img class="featurette-image img-fluid mx-auto" src="{{ asset('images/aboutsb.jpg') }}" data-src="holder.js/500x500/aut" alt="Generic placeholder image">
+      </div>
+
     <form id="contact-form" method="post" action="#" role="form">
 
         <div class="messages"></div>

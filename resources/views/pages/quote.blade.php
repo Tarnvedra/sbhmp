@@ -33,7 +33,7 @@
  </div>
 </div>
 
-<h4 class="pt-5">Quote Price<<span class="text-muted"></span>/h4>
+<h4 class="pt-5">Quote Price<span class="text-muted"></span></h4>
 
     <form id="quote-form" onsubmit="getQuote()" role="form">
 
