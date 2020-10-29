@@ -4,7 +4,7 @@
 @section('content')
 
 <div class="container pt-5">
-    <h2 class="pt-5">Get Quote</h2>
+    <h2 class="pt-5">Get Quote<span class="text-muted"></span></h2>
    <div class="row justify-content-center">
 
     <div class="col-md-10">
@@ -33,7 +33,7 @@
  </div>
 </div>
 
-<h4 class="pt-5">Quote Price</h4>
+<h4 class="pt-5">Quote Price<<span class="text-muted"></span>/h4>
 
     <form id="quote-form" onsubmit="getQuote()" role="form">
 

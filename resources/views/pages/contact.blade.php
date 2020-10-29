@@ -3,14 +3,14 @@
 
 @section('content')
 
-<div class="container">
-    <h2>Contact</h2>
+<div class="container pt-5">
+    <h2 class="pt-5">Contact<span class="text-muted"></span></h2>
     <form id="contact-form" method="post" action="#" role="form">
 
         <div class="messages"></div>
-    
+
         <div class="controls">
-    
+
             <div class="row pt-4">
                 <div class="col-md-6">
                     <div class="form-group">
@@ -61,7 +61,7 @@
                 </div>
             </div>
         </div>
-    
+
     </form>
 </div>
 @endsection

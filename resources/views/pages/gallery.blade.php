@@ -4,7 +4,7 @@
 @section('content')
 <div class="jumbotron bg-light">
     <div class="col-md-8">
-        <h2 class="featurette-heading">Gallery<span class="text-muted"></span></h2>
+        <h2 class="pt-3">Gallery<span class="text-muted"></span></h2>
         <hr>
   </div>
 
